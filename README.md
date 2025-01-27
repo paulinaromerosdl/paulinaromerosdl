@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello everyone! 
+I am Paulina Romero, a senior at the University of Notre Dame. I'm majoring in Psychology with a double minor in Collaborative Innovation and Computing and Digital Technologies. I have beginner skills in Python and I'm excited to further develop these skills as well as learn new programming languages :)
 
 <!--
 **paulinaromerosdl/paulinaromerosdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
