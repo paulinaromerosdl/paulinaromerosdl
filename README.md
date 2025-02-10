@@ -6,6 +6,9 @@ I am Paulina Romero, a senior at the University of Notre Dame. I'm majoring in P
 - Code Debugging (Beginner)
 - Development Frameworks (Beginner)
 
+## Goals 
+- gain proficient skill in basic programming languages like Python
+- use programming skills to analyze and summarize data 
 <!--
 **paulinaromerosdl/paulinaromerosdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
